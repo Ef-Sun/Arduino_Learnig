@@ -1,0 +1,10 @@
+功能：
+- 利用按钮控制，在矩阵上显示当前态度。
+- 共有三种模式：支持（笑脸）、中立（无感）、反对（哭脸）
+
+
+文件说明：
+- 电路示意图见“态度表决器电路图.png”。
+- 演示视频见“态度表决器视频.MOV”。
+- 库文件使用MaxMatrix，包含“MaxMatrix.h”、“MaxMatrix.cpp”、“keywords.txt”、“font.h”.
+  下载地址： https://code.google.com/p/arudino-maxmatrix-library/
